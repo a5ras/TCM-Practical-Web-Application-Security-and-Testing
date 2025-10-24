@@ -13,13 +13,13 @@ The main goal of this repo is to:
 
 This repository is structured according to the official course syllabus. Each folder contains my notes and lab files for that specific topic.
 
-* `/0-Prologue/`: Introduction and course overview.
-* `/1-Setup/`: Notes on setting up the lab environment (Brave, Burp Suite, VMs).
-* `/2-Web-Application-Concepts/`: Notes on core web concepts (HTTP, cookies, sessions).
-* `/3-Server-Side-Webapps/`: Labs and notes on server-side technologies.
-* `/4-The-OWASP-Top-10/`: My notes and labs for each of the OWASP Top 10 vulnerabilities.
-* `/5-Client-Side-Webapps/`: Labs and notes on client-side technologies and attacks.
-* `/6-Webapp-Pentesting-Methodology/`: My summary of the A-to-Z pentesting methodology.
-* `/7-Juice-Shop-Pentest/`: Files, screenshots, and reports for the OWASP Juice Shop capstone project.
-* `/8-Reporting/`: Notes and templates for writing a professional pentest report.
-* `/9-Final-Thoughts/`: Final summary, resources, and next steps.
+* `/01.Prologue/`: Introduction and course overview.
+* `/02.Setup/`: Notes on setting up the lab environment (Brave, Burp Suite, VMs).
+* `/03.Web-Application-Concepts/`: Notes on core web concepts (HTTP, cookies, sessions).
+* `/04.Server-Side-Webapps/`: Labs and notes on server-side technologies.
+* `/05.The-OWASP-Top-10/`: My notes and labs for each of the OWASP Top 10 vulnerabilities.
+* `/06.Client-Side-Webapps/`: Labs and notes on client-side technologies and attacks.
+* `/07.Webapp-Pentesting-Methodology/`: My summary of the A-to-Z pentesting methodology.
+* `/08.Juice-Shop-Pentest/`: Files, screenshots, and reports for the OWASP Juice Shop capstone project.
+* `/09.Reporting/`: Notes and templates for writing a professional pentest report.
+* `/10.Final-Thoughts/`: Final summary, resources, and next steps.
